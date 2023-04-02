@@ -107,7 +107,7 @@ def signup(request):
         if not error_message:
             student.password = make_password(student.password)
             student.register()
-            return redirect('login-home')
+            return redirect('home-page')
         else:
             data = {
                 'error': error_message,
