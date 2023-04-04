@@ -1,1 +1,0 @@
-web: gunicorn COUPONSHOP.wsgi --log-file -
