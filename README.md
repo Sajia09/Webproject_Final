@@ -1,5 +1,5 @@
 
-# Hall Dining Coupon Management System
+# JU Hall Dining 
 
 ## Overview
 
