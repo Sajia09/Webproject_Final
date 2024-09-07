@@ -78,28 +78,3 @@ The Hall Dining Coupon Management System is a Django-based application designed 
 10. **Access the application:**
     Open your browser and go to `http://localhost:8000`.
 
-## Usage
-
-- **Admin Panel**: Access the Django admin panel at `http://localhost:8000/admin` to manage coupons and user profiles.
-- **Dining Staff Interface**: Use the provided interfaces to validate and redeem dining coupons.
-
-## Contributing
-
-Contributions are welcome! Please follow these steps to contribute:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/YourFeature`).
-3. Commit your changes (`git commit -am 'Add new feature'`).
-4. Push to the branch (`git push origin feature/YourFeature`).
-5. Create a new Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-- [Django](https://www.djangoproject.com/) - High-level Python web framework
-- [Bootstrap](https://getbootstrap.com/) - Front-end framework for responsive web design
-- [SQL](https://www.postgresql.org/) - Advanced open-source database management system
-```
