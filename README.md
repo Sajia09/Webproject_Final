@@ -4,6 +4,7 @@
 ## Overview
 
 The Hall Dining Coupon Management System is a Django-based application designed to efficiently manage dining coupons for hall residents. The system facilitates the issuance, validation, and tracking of dining coupons, improving resource management and user experience.
+![image](https://github.com/user-attachments/assets/3785fda3-c92b-4cba-98b7-e0fc45dcca09)
 
 ## Features
 
