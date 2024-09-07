@@ -1,5 +1,4 @@
 
-```markdown
 # Hall Dining Coupon Management System
 
 ## Overview
