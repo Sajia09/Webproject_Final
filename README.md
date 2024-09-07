@@ -78,3 +78,13 @@ The Hall Dining Coupon Management System is a Django-based application designed 
 10. **Access the application:**
     Open your browser and go to `http://localhost:8000`.
 
+
+## Demo video
+https://github.com/user-attachments/assets/ebc59834-ff96-48a3-a908-56034e0c543f
+
+## Powerpoint Presentation
+[web_group2_ppt.pptx](https://github.com/user-attachments/files/16919422/web_group2_ppt.pptx)
+
+
+
+
