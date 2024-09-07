@@ -29,17 +29,18 @@ The Hall Dining Coupon Management System is a Django-based application designed 
    cd hall-dining-coupon-management
 3.Create a virtual environment:
   ```bash
-python -m venv env
+   python -m venv env
+
 4.Activate the virtual environment:
 ```bash
-env\Scripts\activate
+   env\Scripts\activate
 5.Install the required dependencies:
 ```bash
-pip install -r requirements.txt
+   pip install -r requirements.txt
 6.Create a .env file in the root directory with the following content:
 ```bash
-DEBUG=True
-SECRET_KEY=your_secret_key
-DATABASE_URL=postgres://user:password@localhost:5432/hall_dining
+   DEBUG=True
+   SECRET_KEY=your_secret_key
+   DATABASE_URL=postgres://user:password@localhost:5432/hall_dining
 
 
