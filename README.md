@@ -19,7 +19,7 @@ The Hall Dining Coupon Management System is a Django-based application designed 
 
 - [Python](https://www.python.org/) (v3.8 or later)
 - [Django](https://www.djangoproject.com/) (v4.0 or later)
-- [PostgreSQL](https://www.postgresql.org/) (for database management, optional)
+- [SQL](https://www.postgresql.org/) (for database management, optional)
 
 ### Installation
 
